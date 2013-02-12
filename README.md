@@ -9,5 +9,6 @@ You will need rhythmbox installed of course.
 
 Usage:
 ```bash
+# start rhythmbox playing a suitable playlist, then...
 perl play.pl
 ```
