@@ -6,3 +6,8 @@ Trivial Perl script to allow you to participate actively in musical statues/chai
 You will need rhythmbox installed of course.
 
 (Linux assumed!)
+
+Usage:
+```bash
+perl play.pl
+```
